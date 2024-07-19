@@ -12,13 +12,13 @@ The SARES meets on repeater channels and simplex tactical channels. `SARES-simpl
 
 ### Net Control Script
 
-* `SARES-Monday-Net-script.doc`
+* `SARES-Monday-Net-script.docx`
 
-### Check-in tally sheets
+### Check-in Tally Sheets
 
-Net control operators should submit check-in tallies using this spreadsheet. Instructions are included within the document.
+Net control operators should submit check-in tallies using the net check roster. Instructions are included within the document.
 
-* `SARES-net-check-in.xls`
+In July 2024, the spreadsheet was moved to Google Sheets. [(link)](https://docs.google.com/spreadsheets/d/14RUBNcuvIyXXqZyzxhZAqpldzTe8hCIpGduYxM4yax8/edit?usp=sharing)
 
 ## Further Information
 
