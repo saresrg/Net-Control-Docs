@@ -2,28 +2,32 @@
 
 SARES meets every Monday night at 1930 hours (Pacific Time, USA) for a directed net. These documents are relevant to these nets.
 
-Please download these files from the [Latest release page](https://github.com/saresrg/Net-Control-Docs/releases/latest).
+Please download these files from the [Latest Release page](https://github.com/saresrg/Net-Control-Docs/releases/latest).
 
 ## Description
 
-### Frequency Rotation Schedule
+### Simplex Rotation Schedule
 
-The SARES meets on repeater channels and simplex tactical channels. `SARES-simplex-rotation.pdf` contains the frequencies, channels and rotation schedule.
+The SARES net convenes on repeater and simplex tactical channels. `SARES-simplex-rotation.pdf` contains the frequencies, channel numbers, and rotation schedule.
 
 ### Net Control Script
 
-* `SARES-Monday-Net-script.docx`
+The script was substantially updated in August 2024.
 
-### Check-in Tally Sheets
+It is available in three formats:
 
-Net control operators should submit check-in tallies using the net check roster. Instructions are included within the document.
+* Printable PDF
+* Editable Google Doc
+* Original source file in Apple Pages format
 
-In July 2024, the spreadsheet was moved to Google Sheets. [(link)](https://docs.google.com/spreadsheets/d/14RUBNcuvIyXXqZyzxhZAqpldzTe8hCIpGduYxM4yax8/edit?usp=sharing)
+### Net Check-in Roster
 
-## Further Information
+Net control operators should submit check-in tallies using the net check roster spreadsheet.
 
-* [SARES Official Site](https://www.sunnyvaleares.org/)
-* [SARES-RG Resources page](https://www.saresrg.org/resources)
+## More Information
+
+* [SARES Website](https://k6sny.org/)
+* [SARES Resources](https://k6sny.org/resources)
 * [Santa Clara County ARES/RACES Go Kit Checklist](https://www.scc-ares-races.org/operations.html#equip)
 
 SARES serves the City of Sunnyvale, California, USA.
