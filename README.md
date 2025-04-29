@@ -12,8 +12,6 @@ The SARES net convenes on repeater and simplex tactical channels. `SARES-simplex
 
 ### Net Control Script
 
-The script was substantially updated in August 2024.
-
 It is available in three formats:
 
 * Printable PDF
