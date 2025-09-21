@@ -20,7 +20,7 @@ It is available in three formats:
 
 ### Net Check-in Roster
 
-Net control operators should submit check-in tallies using the net check roster spreadsheet.
+Net control operators should submit check-in tallies using the [Net Check-In Roster spreadsheet](https://docs.google.com/spreadsheets/d/14RUBNcuvIyXXqZyzxhZAqpldzTe8hCIpGduYxM4yax8/edit?usp=sharing).
 
 ## More Information
 
