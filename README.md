@@ -14,19 +14,22 @@ The SARES net convenes on repeater and simplex tactical channels. `SARES-simplex
 
 It is available in three formats:
 
-* Printable PDF
-* Editable Google Doc
-* Original source file in Apple Pages format
+- Printable PDF
+- Editable Google Doc
+- Original source file in Apple Pages format
 
 ### Net Check-in Roster
 
 Net control operators should submit check-in tallies using the [Net Check-In Roster spreadsheet](https://docs.google.com/spreadsheets/d/14RUBNcuvIyXXqZyzxhZAqpldzTe8hCIpGduYxM4yax8/edit?usp=sharing).
 
+### SARES Net Simplex Rotation Schedule
+
+The [Simplex Rotation Schedule](https://docs.google.com/spreadsheets/d/1CkQEnq1w-r1LN8F204JM4XkJoE7ffjHwhE4THyW0qew/edit?usp=sharing) is available as a Google Sheet.
+
 ## More Information
 
-* [SARES Website](https://k6sny.org/)
-* [SARES Resources](https://k6sny.org/resources)
-* [Santa Clara County ARES/RACES Go Kit Checklist](https://www.scc-ares-races.org/operations.html#equip)
+- [SARES Website](https://k6sny.org/)
+- [SARES Resources](https://k6sny.org/resources)
+- [Santa Clara County ARES/RACES Go Kit Checklist](https://www.scc-ares-races.org/operations.html#equip)
 
 SARES serves the City of Sunnyvale, California, USA.
-
