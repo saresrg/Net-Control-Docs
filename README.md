@@ -6,10 +6,6 @@ Please download these files from the [Latest Release page](https://github.com/sa
 
 ## Description
 
-### Simplex Rotation Schedule
-
-The SARES net convenes on repeater and simplex tactical channels. `SARES-simplex-rotation.pdf` contains the frequencies, channel numbers, and rotation schedule.
-
 ### Net Control Script
 
 It is available in three formats:
@@ -22,7 +18,7 @@ It is available in three formats:
 
 Net control operators should submit check-in tallies using the [Net Check-In Roster spreadsheet](https://docs.google.com/spreadsheets/d/14RUBNcuvIyXXqZyzxhZAqpldzTe8hCIpGduYxM4yax8/edit?usp=sharing).
 
-### SARES Net Simplex Rotation Schedule
+### Simplex Rotation Schedule
 
 The [Simplex Rotation Schedule](https://docs.google.com/spreadsheets/d/1CkQEnq1w-r1LN8F204JM4XkJoE7ffjHwhE4THyW0qew/edit?usp=sharing) is available as a Google Sheet.
 
