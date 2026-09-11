@@ -6,13 +6,11 @@ Please download these files from the [Latest Release page](https://github.com/sa
 
 ## Description
 
-### Net Control Script
+### Net Control Scripts
 
-It is available in three formats:
+Scripts are available in PDF and original source (editable) formats.
 
-- Printable PDF
-- Editable Google Doc
-- Original source file in Apple Pages format
+The script for Training Announcements was added in September 2026.
 
 ### Net Check-in Roster
 
